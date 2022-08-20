@@ -15,12 +15,7 @@ const Header = () => {
 				</div>
 			</div>
 			<div className="second-column">
-				<div className="search">
-					<input type="text" placeholder="Search" />
-					<button>
-						<i className={ FaBeer }></i>
-					</button>
-				</div>
+				{/* Work here */}
 			</div>
 		</div>
 	);
